@@ -1,71 +1,71 @@
-﻿Name,Latitude,Longitude,Demand Volume (estimate tons),hub_assigned,hub_lat,hub_lon,hub_total_demand
-Lelylijn,52.8,5.9,7500000,2,51.9007,5.7561,90800000
-Lauwersmeer-Vierhuizergat,53.4,6.22,500000,2,51.9007,5.7561,90800000
-Pilot Buitendijkse Slibsedimentatie,53.33,6.93,100000,2,51.9007,5.7561,90800000
-OV-verbinding Amsterdam - Haarlemmermeer,52.31,4.68,195000000,1,52.2888,4.6668,299120000
-Multimodale knoop Schiphol,52.308,4.764,300000,1,52.2888,4.6668,299120000
-Verbeteren vaargeul IJsselmeer (Amsterdam - Lemmer),52.75,5.4,5000000,1,52.2888,4.6668,299120000
-Zeetoegang IJmond,52.46,4.6,4000000,1,52.2888,4.6668,299120000
-N35 Wijthmen-Nijverdal,52.4333,6.3333,2500000,2,51.9007,5.7561,90800000
-Goederenroute Elst-Deventer-Twente (NaNOV),52.25,6.15,1000000,2,51.9007,5.7561,90800000
-PHS Ede,52.03,5.67,300000,2,51.9007,5.7561,90800000
-Emplacement Den Haag Centraal,52.0805,4.3268,150000,1,52.2888,4.6668,299120000
-PHS Rijswijk-Rotterdam,51.9225,4.4791,2500000,1,52.2888,4.6668,299120000
-Bereikbaarheid Ameland,53.4,5.85,3000000,2,51.9007,5.7561,90800000
-OV-verbinding Sloterdijk - Amsterdam Centrum,52.38,4.86,31800000,1,52.2888,4.6668,299120000
-A1/A6/A9 Schiphol-Amsterdam-Almere,52.3,4.9,5000000,1,52.2888,4.6668,299120000
-Traject Oost,52.05,5.4,150000,2,51.9007,5.7561,90800000
-A2/N2,51.44,5.43,2500000,2,51.9007,5.7561,90800000
-Lob van Gennep,51.7,5.97,2500000,2,51.9007,5.7561,90800000
-Oeffelt,51.69,5.94,800000,2,51.9007,5.7561,90800000
-Maaslijn,51.55,6,800000,2,51.9007,5.7561,90800000
-"Maasroute, Modernisering fase 2",51.2,5.8,2000000,2,51.9007,5.7561,90800000
-Grensmaas,51.05,5.75,2500000,2,51.9007,5.7561,90800000
-Rijnlandroute,52.16,4.45,2500000,1,52.2888,4.6668,299120000
-Besluit Beheer Haringvlietsluizen,51.8314,4.0536,20000,1,52.2888,4.6668,299120000
-Zandsuppletie Galgeplaat,51.6021,3.9452,1500000,1,52.2888,4.6668,299120000
-A1/A30 Barneveld,52.14,5.58,800000,2,51.9007,5.7561,90800000
-A28 Amersfoort-Hoogeveen,52.5167,6.0833,600000,2,51.9007,5.7561,90800000
-RegioExpres,51.96,6.28,1500000,2,51.9007,5.7561,90800000
-PHS Nijmegen,51.84,5.85,400000,2,51.9007,5.7561,90800000
-Zuidelijk Maasdal,50.85,5.69,2500000,2,51.9007,5.7561,90800000
-"Vaarweg Lemmer-Delfzijl, fase 2",53.2,6.3,1000000,2,51.9007,5.7561,90800000
-Koehool-Lauwersmeer,53.35,5.85,400000,2,51.9007,5.7561,90800000
-Verruiming Sluiscomplex Kornwerderzand,53.07,5.33,1500000,1,52.2888,4.6668,299120000
-A2 Het Vonderen-Kerensheide,51.04,5.82,2500000,2,51.9007,5.7561,90800000
-Calandbrug (Theemswegtrac√©),51.89,4.18,2500000,1,52.2888,4.6668,299120000
-Noord-Hollandse Markermeerkust,52.5,5.05,1000000,1,52.2888,4.6668,299120000
-EuregioRail: Zwolle - Twente - M√ºnster,52.2167,6.8833,200000,2,51.9007,5.7561,90800000
-"Development of the area ""Langs Eem en Spoor""",52.15,5.38,2000000,2,51.9007,5.7561,90800000
-"""Kop van Isselt"" and ""Ocriet eiland"" housing projects (2,600 homes)",52.15,5.38,1560000,2,51.9007,5.7561,90800000
-"""Nieuwe stad"" and ""Wagenwerkplaats"" housing projects (1,400 homes)",52.15,5.38,840000,2,51.9007,5.7561,90800000
-Rivierklimaatpark IJsselpoort,51.98,5.95,2500000,2,51.9007,5.7561,90800000
-Nijmegen omarmt de Waal (Waalfront),51.85,5.85,1260000,2,51.9007,5.7561,90800000
-Hub 's-Hertogenbosch,51.69,5.29,11380000,2,51.9007,5.7561,90800000
-Baarlo-Hout-Blerick,51.34,6.1,2500000,2,51.9007,5.7561,90800000
-Well,51.55,6.09,2500000,2,51.9007,5.7561,90800000
-Meanderende Maas,51.78,5.58,2500000,2,51.9007,5.7561,90800000
-Inframaatregelen MerwedeLingeLijn,51.85,5,150000,1,52.2888,4.6668,299120000
-HOV-Net Zuid-Holland Noord,52.1601,4.497,800000,1,52.2888,4.6668,299120000
-Derde perron Amsterdam Zuid,52.338,4.873,800000,1,52.2888,4.6668,299120000
-A27 Houten-Hooipolder,51.82,4.95,2500000,1,52.2888,4.6668,299120000
-PHS Meteren-Boxtel,51.7,5.3,2500000,2,51.9007,5.7561,90800000
-A20 Nieuwerkerk a/d IJssel-Knooppunt Gouwe,52,4.65,2500000,1,52.2888,4.6668,299120000
-Ecologische Waterkwaliteit Friese IJsselmeerkust,52.98,5.44,500000,1,52.2888,4.6668,299120000
-Elektrificatie Almelo-Mari√´nberg en Zutphen-Hengelo-Oldenzaal,52.25,6.5,50000,2,51.9007,5.7561,90800000
-Brainportregio Eindhoven,51.443,5.48,15400000,2,51.9007,5.7561,90800000
-Gebiedsontwikkeling Vierwaarden,51.4,6.17,2500000,2,51.9007,5.7561,90800000
-Toekomstvast Spoor Zuidoost-NL,51.44,5.48,1500000,2,51.9007,5.7561,90800000
-Station Groningen Suiker,53.21,6.54,4860000,2,51.9007,5.7561,90800000
-Oostvaardersoevers,52.45,5.25,2000000,1,52.2888,4.6668,299120000
-OV knooppunt Nijmegen Centrumzijde & Fietsenstalling,51.8425,5.8528,300000,2,51.9007,5.7561,90800000
-Randstadrail/Metronet,51.9225,4.4791,100000,1,52.2888,4.6668,299120000
-A10 Knooppunten De Nieuwe Meer en Amstel,52.33,4.88,2500000,1,52.2888,4.6668,299120000
-Zuidasdok,52.33,4.87,3000000,1,52.2888,4.6668,299120000
-Project Mainportontwikkeling Rotterdam,51.9547,4.0202,25000000,1,52.2888,4.6668,299120000
-Capaciteitsuitbreiding ligplaatsen Amsterdam - Lemmer,52.65,5.35,200000,1,52.2888,4.6668,299120000
-Dijkversterking Marken,52.45,5.1,800000,1,52.2888,4.6668,299120000
-PHS Alkmaar-Amsterdam,52.63,4.75,2500000,1,52.2888,4.6668,299120000
-A7/A8 Amsterdam-Hoorn,52.508,4.965,500000,1,52.2888,4.6668,299120000
-PHS Amsterdam,52.37,4.9,2500000,1,52.2888,4.6668,299120000
-Eemszijlen/Groote Polder,53.3,6.95,600000,2,51.9007,5.7561,90800000
+﻿Name,Type,Phase,Start Date,End Date,Latitude,Longitude,Demand Volume (estimate tons),hub_id,hub_name,waterway,cemt_class,hub_lat,hub_lon,snap_dist_km,snap_method,total_demand_tons
+Lelylijn,Rail,Research,2023,2026,52.8,5.9,7500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Lauwersmeer-Vierhuizergat,Waterway,Construction,2023,2026,53.4,6.22,500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Pilot Buitendijkse Slibsedimentatie,Waterway,Construction,2025,2026,53.33,6.93,100000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+OV-verbinding Amsterdam - Haarlemmermeer,Rail,Exploration,2026,2050,52.31,4.68,195000000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Multimodale knoop Schiphol,Rail,Construction,2016,2035,52.308,4.764,300000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Verbeteren vaargeul IJsselmeer (Amsterdam - Lemmer),Waterway,Construction,2020,2026,52.75,5.4,5000000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Zeetoegang IJmond,Waterway,Construction,2016,2026,52.46,4.6,4000000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+N35 Wijthmen-Nijverdal,Road,Exploration,2022,2026,52.4333,6.3333,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Goederenroute Elst-Deventer-Twente (NaNOV),Rail,Construction,2009,2026,52.25,6.15,1000000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+PHS Ede,Rail,Construction,2017,2026,52.03,5.67,300000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Emplacement Den Haag Centraal,Rail,Construction,2020,2026,52.0805,4.3268,150000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+PHS Rijswijk-Rotterdam,Rail,Construction,2018,2026,51.9225,4.4791,2500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Bereikbaarheid Ameland,Waterway,Exploration,2024,2027,53.4,5.85,3000000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+OV-verbinding Sloterdijk - Amsterdam Centrum,Rail,Exploration,2023,2027,52.38,4.86,31800000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+A1/A6/A9 Schiphol-Amsterdam-Almere,Road,Construction,2012,2027,52.3,4.9,5000000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Traject Oost,Rail,Construction,2002,2027,52.05,5.4,150000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+A2/N2,Road,Exploration,2025,2027,51.44,5.43,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Lob van Gennep,Waterway,Planning,2019,2027,51.7,5.97,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Oeffelt,Waterway,Planning,2021,2027,51.69,5.94,800000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Maaslijn,Rail,Construction,2021,2027,51.55,6,800000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+"Maasroute, Modernisering fase 2",Waterway,Construction,2015,2027,51.2,5.8,2000000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Grensmaas,Waterway,Construction,2008,2027,51.05,5.75,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Rijnlandroute,Road,Construction,2017,2027,52.16,4.45,2500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Besluit Beheer Haringvlietsluizen,Other,Construction,2018,2027,51.8314,4.0536,20000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Zandsuppletie Galgeplaat,Waterway,Construction,2022,2027,51.6021,3.9452,1500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+A1/A30 Barneveld,Road,Planning,2027,2028,52.14,5.58,800000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+A28 Amersfoort-Hoogeveen,Road,Planning,2026,2028,52.5167,6.0833,600000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+RegioExpres,Rail,Planning,2023,2028,51.96,6.28,1500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+PHS Nijmegen,Rail,Construction,2024,2028,51.84,5.85,400000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Zuidelijk Maasdal,Waterway,Exploration,2023,2028,50.85,5.69,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+"Vaarweg Lemmer-Delfzijl, fase 2",Waterway,Planning,2019,2029,53.2,6.3,1000000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Koehool-Lauwersmeer,Waterway,Planning,2020,2029,53.35,5.85,400000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Verruiming Sluiscomplex Kornwerderzand,Waterway,Construction,2020,2029,53.07,5.33,1500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+A2 Het Vonderen-Kerensheide,Road,Construction,2022,2029,51.04,5.82,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Calandbrug (Theemswegtrac√©),Rail,Construction,2018,2029,51.89,4.18,2500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Noord-Hollandse Markermeerkust,Waterway,Exploration,2020,2030,52.5,5.05,1000000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+EuregioRail: Zwolle - Twente - M√ºnster,Rail,Exploration,2024,2030,52.2167,6.8833,200000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+"Development of the area ""Langs Eem en Spoor""",Road,Planning,2027,2030,52.15,5.38,2000000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+"""Kop van Isselt"" and ""Ocriet eiland"" housing projects (2,600 homes)",Road,Planning,2027,2030,52.15,5.38,1560000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+"""Nieuwe stad"" and ""Wagenwerkplaats"" housing projects (1,400 homes)",Road,Planning,2027,2030,52.15,5.38,840000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Rivierklimaatpark IJsselpoort,Waterway,Planning,2026,2030,51.98,5.95,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Nijmegen omarmt de Waal (Waalfront),Other,Construction,2009,2030,51.85,5.85,1260000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Hub 's-Hertogenbosch,Rail,Exploration,2021,2030,51.69,5.29,11380000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Baarlo-Hout-Blerick,Waterway,Planning,2023,2030,51.34,6.1,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Well,Waterway,Planning,2023,2030,51.55,6.09,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Meanderende Maas,Waterway,Construction,2024,2030,51.78,5.58,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Inframaatregelen MerwedeLingeLijn,Rail,Exploration,2024,2030,51.85,5,150000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+HOV-Net Zuid-Holland Noord,Rail,Construction,2009,2030,52.1601,4.497,800000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Derde perron Amsterdam Zuid,Rail,Planning,2023,2031,52.338,4.873,800000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+A27 Houten-Hooipolder,Road,Construction,2024,2031,51.82,4.95,2500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+PHS Meteren-Boxtel,Rail,Construction,2024,2031,51.7,5.3,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+A20 Nieuwerkerk a/d IJssel-Knooppunt Gouwe,Road,Planning,2028,2031,52,4.65,2500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Ecologische Waterkwaliteit Friese IJsselmeerkust,Waterway,Exploration,2020,2032,52.98,5.44,500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Elektrificatie Almelo-Mari√´nberg en Zutphen-Hengelo-Oldenzaal,Rail,Planning,2024,2032,52.25,6.5,50000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Brainportregio Eindhoven,Rail,Exploration,2022,2032,51.443,5.48,15400000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Gebiedsontwikkeling Vierwaarden,Waterway,Exploration,2022,2032,51.4,6.17,2500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Toekomstvast Spoor Zuidoost-NL,Rail,Planning,2022,2032,51.44,5.48,1500000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Station Groningen Suiker,Rail,Exploration,2024,2033,53.21,6.54,4860000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Oostvaardersoevers,Waterway,Planning,2023,2033,52.45,5.25,2000000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+OV knooppunt Nijmegen Centrumzijde & Fietsenstalling,Rail,Exploration,2022,2033,51.8425,5.8528,300000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000
+Randstadrail/Metronet,Rail,Planning,2027,2035,51.9225,4.4791,100000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+A10 Knooppunten De Nieuwe Meer en Amstel,Road,Construction,2022,2036,52.33,4.88,2500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Zuidasdok,Road,Construction,2022,2036,52.33,4.87,3000000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Project Mainportontwikkeling Rotterdam,Waterway,Construction,2006,2040,51.9547,4.0202,25000000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Capaciteitsuitbreiding ligplaatsen Amsterdam - Lemmer,Waterway,Planning,,2025-2027,52.65,5.35,200000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Dijkversterking Marken,Other,Construction,2023,2027-2028,52.45,5.1,800000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+PHS Alkmaar-Amsterdam,Rail,Construction,2026,2029 - 2032,52.63,4.75,2500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+A7/A8 Amsterdam-Hoorn,Road,Planning,2013,2030-2032,52.508,4.965,500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+PHS Amsterdam,Rail,Construction,2021,2030-2032,52.37,4.9,2500000,1,Port of Amsterdam (Westpoort),Noordzeekanaal,Va,52.39,4.84,16.3,port,299120000
+Eemszijlen/Groote Polder,Waterway,Exploration,2022,2027,53.3,6.95,600000,2,Beuningen Container Terminal,Waal,Va,51.86,5.79,5.1,port,90800000

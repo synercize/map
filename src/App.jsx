@@ -289,7 +289,7 @@ function App() {
    ];
 
    const [showWaterways, setShowWaterways] = useState(true);
-   const [selectedScenario, setSelectedScenario] = useState(3); // Default to 3 hubs
+   const [selectedScenario, setSelectedScenario] = useState(5); // Default to 3 hubs
    const [hubAssignments, setHubAssignments] = useState({}); // projectName → hubId
    const [uniqueHubs, setUniqueHubs] = useState([]); // [{id, lat, lon, totalDemand}]
    // Initialize with ALL classes selected
@@ -314,20 +314,41 @@ function App() {
       const assignments = {};
       const hubMap = {};
       results.data.forEach((row) => {
-         const hubId = parseInt(row.hub_assigned);
+         const hubId = parseInt(row.hub_id);
          assignments[row.Name] = hubId;
          if (!hubMap[hubId]) {
             hubMap[hubId] = {
                id: hubId,
+               name: row.hub_name || `Hub ${hubId}`,
+               waterway: row.waterway || "",
+               cemtClass: row.cemt_class || "",
                lat: parseFloat(row.hub_lat),
                lon: parseFloat(row.hub_lon),
-               totalDemand: parseInt(row.hub_total_demand) || 0,
+               totalDemand: parseInt(row.total_demand_tons) || 0,
             };
          }
       });
+
+      // Assign projects missing from hub CSV to the nearest hub
+      const hubList = Object.values(hubMap);
+      projects.forEach((p) => {
+         if (assignments[p.Name] == null) {
+            let nearest = null;
+            let minDist = Infinity;
+            hubList.forEach((h) => {
+               const d = Math.hypot(p.coordinates[0] - h.lat, p.coordinates[1] - h.lon);
+               if (d < minDist) {
+                  minDist = d;
+                  nearest = h.id;
+               }
+            });
+            if (nearest != null) assignments[p.Name] = nearest;
+         }
+      });
+
       setHubAssignments(assignments);
-      setUniqueHubs(Object.values(hubMap).sort((a, b) => a.id - b.id));
-   }, [selectedScenario]);
+      setUniqueHubs(hubList.sort((a, b) => a.id - b.id));
+   }, [selectedScenario, projects]);
 
    useEffect(() => {
       const dataResults = Papa.parse(dataCSV, { header: true, skipEmptyLines: true });
@@ -544,7 +565,7 @@ function App() {
                <div className="filter-panel" style={{ marginBottom: "15px" }}>
                   <h3 style={{ margin: 0, marginBottom: "10px" }}>Hub numbers</h3>
                   <div style={{ display: "flex", flexWrap: "wrap", gap: "5px" }}>
-                     {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((n) => (
+                     {[2, 5, 7].map((n) => (
                         <button
                            key={n}
                            onClick={() => setSelectedScenario(selectedScenario === n ? null : n)}
@@ -654,12 +675,16 @@ function App() {
                         >
                            <Popup>
                               <div className="popup-content">
-                                 <h3>Hub {hub.id}</h3>
+                                 <h3>{hub.name}</h3>
+                                 <p style={{ color: "#666", fontSize: "12px", marginBottom: "6px" }}>Hub {hub.id}</p>
+                                 {hub.waterway && (
+                                    <p>
+                                       <strong>Waterway:</strong> {hub.waterway}{" "}
+                                       {hub.cemtClass && `(CEMT ${hub.cemtClass})`}
+                                    </p>
+                                 )}
                                  <p>
                                     <strong>Total Demand:</strong> {hub.totalDemand.toLocaleString()} tons
-                                 </p>
-                                 <p>
-                                    <strong>Location:</strong> {hub.lat.toFixed(4)}, {hub.lon.toFixed(4)}
                                  </p>
                               </div>
                            </Popup>

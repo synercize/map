@@ -1,0 +1,69 @@
+﻿name,lat,lon,waterway,class
+Port of Rotterdam (Maasvlakte),51.95,4.02,Nieuwe Waterweg,VI
+Rotterdam Waalhaven,51.895,4.43,Nieuwe Maas,VI
+Rotterdam Eemhaven,51.9,4.46,Nieuwe Maas,VI
+Rotterdam Botlek,51.885,4.33,Nieuwe Maas,VI
+Dordrecht (Merwede),51.81,4.67,Nieuwe Merwede,Va
+Moerdijk Industrial Port,51.69,4.59,Hollandsch Diep,Va
+Vlaardingen,51.91,4.34,Nieuwe Maas,VI
+Gorinchem (Waal/Linge),51.838,4.976,Waal,Va
+Tiel (Waal),51.89,5.43,Waal,Va
+Nijmegen (Waal),51.85,5.87,Waal,Va
+Beuningen Container Terminal,51.86,5.79,Waal,Va
+Arnhem (Nederrijn),51.98,5.9,Pannerdenskanaal,Va
+Lobith (Rhine border),51.86,6.11,Rhine,Vb
+Port of Amsterdam (Westpoort),52.39,4.84,Noordzeekanaal,Va
+Amsterdam Cargadoors,52.378,4.91,IJ,Va
+Zaandam (Zaan),52.44,4.82,Zaan,IV
+Beverwijk (Noordzeekanaal),52.48,4.66,Noordzeekanaal,Va
+IJmuiden (sea lock),52.46,4.6,Noordzeekanaal,VI
+Alphen aan den Rijn,52.13,4.66,Gouwe/ARK,Va
+Nieuwegein / Utrecht (ARK),52.03,5.07,Amsterdam-Rijnkanaal,Va
+Wijk bij Duurstede,51.97,5.34,Amsterdam-Rijnkanaal,Va
+Venlo (Maas),51.37,6.17,Maas,Va
+Roermond (Maas),51.19,5.99,Maas,IV
+Maasbracht terminal,51.15,5.89,Juliana Canal,Va
+Oss (Maas),51.77,5.52,Maas,IV
+Den Bosch / 's-Hertogenbosch,51.69,5.3,Maas/Dieze,IV
+Geertruidenberg (Amer),51.7,4.86,Amer,Va
+Deventer (IJssel),52.25,6.16,IJssel,IV
+Zutphen (IJssel),52.14,6.2,IJssel,IV
+Zwolle (IJssel/Zwarte Water),52.51,6.09,IJssel,IV
+Kampen (IJssel mouth),52.55,5.91,IJssel,IV
+Lelystad Haven,52.52,5.47,IJsselmeer,IV
+Enkhuizen,52.7,5.29,IJsselmeer,IV
+Lemmer (Friesland),52.85,5.71,IJsselmeer/Prinses Margrietkanaal,IV
+Harlingen (Waddenzee),53.17,5.43,Waddenzee/Van Harinxmakanaal,IV
+Meppel (Meppelerdiep),52.69,6.2,Meppelerdiep,IV
+Port of Groningen (Eemskanaal),53.21,6.6,Eemskanaal,IV
+Delfzijl (Eems estuary),53.33,6.93,Eems,VI
+Veendam (Winschoterdiep),53.11,6.88,Winschoterdiep,III
+Ter Apel Canal terminal,52.88,7.05,Ter Apelkanaal,III
+Hengelo (Twente Canal),52.26,6.79,Twente Canal,IV
+Almelo (Twente Canal),52.36,6.66,Twente Canal,IV
+Enschede (Twente Canal),52.22,6.89,Twente Canal,IV
+Vlissingen (Scheldt),51.44,3.57,Westerschelde,VI
+Terneuzen (Ghent-Terneuzen Canal),51.34,3.83,Kanaal Gent-Terneuzen,Va
+Hansweert (Scheldt),51.45,4,Westerschelde,VI
+Zierikzee (Oosterschelde),51.65,3.92,Oosterschelde,IV
+Bergen op Zoom (Schelde-Rijnkanaal),51.49,4.29,Schelde-Rijnkanaal,Va
+Willemstad (Hollandsch Diep),51.69,4.46,Hollandsch Diep,Va
+Den Helder (North Sea Canal),52.96,4.76,Noord-Hollands Kanaal,IV
+Alkmaar (North Holland Canal),52.63,4.75,Noord-Hollands Kanaal,IV
+Hoorn (IJsselmeer),52.64,5.06,IJsselmeer,IV
+Leiden (Oude Rijn),52.16,4.49,Oude Rijn,III
+Gouda (Hollandse IJssel),52.01,4.71,Hollandse IJssel,IV
+Schiedam (Nieuwe Maas),51.92,4.4,Nieuwe Maas,VI
+Delft (Schie),52.01,4.36,Schie,III
+Hellevoetsluis (Haringvliet),51.83,4.13,Haringvliet,Va
+Coevorden (Coevorden-Vechtkanaal),52.66,6.74,Coevorden-Vechtkanaal,III
+Ommen (Vecht),52.52,6.42,Vecht,III
+Nijmegen Containers (Waal),51.84,5.83,Waal,Va
+Tilburg (Wilhelminakanaal),51.56,5.09,Wilhelminakanaal,IV
+Breda (Mark/Wilhelminakanaal),51.59,4.78,Wilhelminakanaal,IV
+Eindhoven (Zuid-Willemsvaart),51.44,5.47,Zuid-Willemsvaart,IV
+Weert (Zuid-Willemsvaart),51.25,5.7,Zuid-Willemsvaart,IV
+Maastricht (Maas/Julianakanaal),50.85,5.69,Maas/Julianakanaal,Va
+Stein/Urmond (Julianakanaal),50.97,5.76,Juliana Canal,Va
+Leeuwarden (Van Harinxmakanaal),53.2,5.8,Van Harinxmakanaal,IV
+Sneek (Prinses Margrietkanaal area),53.03,5.66,Prinses Margrietkanaal,IV
