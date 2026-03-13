@@ -124,7 +124,9 @@ Capaciteitsuitbreiding ligplaatsen Amsterdam - Lemmer,Waterway,Planning,N/A,2025
 Dijkversterking Marken,Other,Construction,2023,2027-2028,52.45,5.1,800000\r
 PHS Alkmaar-Amsterdam,Rail,Construction,2026,2029 - 2032,52.63,4.75,2500000\r
 A7/A8 Amsterdam-Hoorn,Road,Planning,2013,2030-2032,52.508,4.965,500000\r
-PHS Amsterdam,Rail,Construction,2021,2030-2032,52.37,4.9,2500000`,f2=`\uFEFFName,Description\r
+PHS Amsterdam,Rail,Construction,2021,2030-2032,52.37,4.9,2500000\r
+Afsluitdijk,Other,Construction,2018,2026,52.99,5.17,6000000\r
+MIRT-verkenning OV en Wonen,Rail,Exploration,2020,2030,52.09,5.12,51000000`,f2=`\uFEFFName,Description\r
 """Kop van Isselt"" and ""Ocriet eiland"" housing projects (2,600 homes)","Construction of approximately 2,500 homes in Kop van Isselt and about 100 homes on Ocriet eiland."\r
 """Nieuwe stad"" and ""Wagenwerkplaats"" housing projects (1,400 homes)",Construction of about 800 new homes in Nieuwe stad/Eemplein and roughly 600 homes in Wagenwerkplaats.\r
 A1/A30 Barneveld,"Capacity expansion and junction modifications at the A1/A30 interchange near Barneveld to improve traffic flow, including a new connecting curve."\r
@@ -194,7 +196,9 @@ Well,Construction of a 'Green River' bypass alongside dike reinforcements to sig
 Zandsuppletie Galgeplaat,A large-scale sand nourishment project on the Galgeplaat tidal flat to combat erosion and preserve the ecological and recreational value of the Oosterschelde.\r
 Zeetoegang IJmond,"Construction of a new, 70-meter wide sea lock at IJmuiden and implementation of selective extraction measures to prevent salinization."\r
 Zuidasdok,Placing the A10 Zuid highway underground into tunnels and significantly expanding the Amsterdam Zuid public transport terminal.\r
-Zuidelijk Maasdal,"Project addressing water safety (dike reinforcement, river widening) and nautical safety (upgrading the Maas to class Vb) in Maastricht, plus a new slow-traffic bridge."`,p2=`\uFEFFName,Latitude,Longitude,Demand Volume (estimate tons),hub_assigned,hub_lat,hub_lon,hub_total_demand\r
+Zuidelijk Maasdal,"Project addressing water safety (dike reinforcement, river widening) and nautical safety (upgrading the Maas to class Vb) in Maastricht, plus a new slow-traffic bridge."\r
+Afsluitdijk,"Reinforcing the 32-kilometer dike structure, strengthening existing locks, and expanding water discharge capacity at Den Oever."\r
+MIRT-verkenning OV en Wonen,"Improvement of the public transport system, including the Merwedelijn tram, to unlock approximately 85,000 new homes in the Utrecht region."`,p2=`\uFEFFName,Latitude,Longitude,Demand Volume (estimate tons),hub_assigned,hub_lat,hub_lon,hub_total_demand\r
 Lelylijn,52.8,5.9,7500000,1,52.1985,4.9205,389920000\r
 Lauwersmeer-Vierhuizergat,53.4,6.22,500000,1,52.1985,4.9205,389920000\r
 Pilot Buitendijkse Slibsedimentatie,53.33,6.93,100000,1,52.1985,4.9205,389920000\r
